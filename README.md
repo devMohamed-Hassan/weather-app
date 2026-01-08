@@ -19,4 +19,6 @@ A modern, responsive weather application that provides real-time weather informa
 - Beautiful glassmorphism UI
 - Location-based weather (using browser geolocation)
 
+#
+
 [Live Demo](https://devmohamed-hassan.github.io/weather-app/)
